@@ -57,7 +57,7 @@ Many of the above can be seen in the [Demonstration](#demonstration) section.
 - Added HD icon for the game (can be found in the Icons folder).
 - Users with Creative SoundBlaster cards now could select EAX, EAX 3.0, A3D and DirectSoundHW modes by using Creative ALchemy.
 
-Much is also in the "[Updates](#updates)" section.
+![about](../../assets/gta3/char_0004.png)
 
 ## Changelog
 

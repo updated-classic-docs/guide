@@ -35,6 +35,7 @@ Content of the archive:
 - appmanifest_12110.acf - File for Grand Theft Auto: Vice City
 - appmanifest_12120.acf - File for Grand Theft Auto: San Andreas
 
+![alt](../../assets/gta3/char_0001.png)
 
 ## Pre-launch 
 
@@ -69,4 +70,4 @@ If you have any technical problems/questions, see the "Frequently Asked Question
 With each update, we completely re-upload the build. So, to install the update, you need to download the new Updated Classic build and unpack it into a clean folder.
 Never install the update over the previous build!
 
-![alt](../../assets/gta3/char_0001.png)
+![alt](../../assets/gta3/char_0002.png)
