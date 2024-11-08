@@ -65,7 +65,7 @@ Recommendations before start the game:
 
     This will make the textures look as good as possible. Without anisotropic filtering, textures (mostly roads) will be blurry at close range.
 
-If you have any technical problems/questions, see the  section. ["Frequently Asked Questions"](#faq)
+If you have any technical problems/questions, see the  section. ["Frequently Asked Questions"](../gta3/faq.md)
 
 !!! tip "If you still have problems with the build" 
     Contact with us on our Discord server ("🔨｜support" channel). If the build has crashed, please attach these files to your report message
