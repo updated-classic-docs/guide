@@ -1,3 +1,5 @@
+# Authors
+
 ![alt](../../assets/gta3/authors.png) 
 
 ^^Updated Classic Dev Team^^

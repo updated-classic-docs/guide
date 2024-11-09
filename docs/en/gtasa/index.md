@@ -28,7 +28,7 @@
 - Art with Gant bridge in game menu.
 - Destroyable statues in atrium.
 
-Many of the above can be seen in the [Demonstration](demonstration) section. 
+Many of the above can be seen in the [Demonstration](demonstration.md) section. 
 
 ## Fixes 
 

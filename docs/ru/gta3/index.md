@@ -20,7 +20,7 @@
 - Police radio dispatch voice sound.
 - Camera when getting in car.
 - Color correction.
-Many of the above can be seen in the [Demonstration](#demonstration) section. 
+Many of the above can be seen in the [Demonstration](demonstration.md) section. 
 
 ## Fixes
 
@@ -56,8 +56,6 @@ Many of the above can be seen in the [Demonstration](#demonstration) section.
 - (Exclusive) Big textures research. Many textures was replaced with their better analogs (not HD).
 - Added HD icon for the game (can be found in the Icons folder).
 - Users with Creative SoundBlaster cards now could select EAX, EAX 3.0, A3D and DirectSoundHW modes by using Creative ALchemy.
-
-Much is also in the "[Updates](#updates)" section.
 
 ## Changelog
 

@@ -28,7 +28,7 @@
  - Headlights now work correctly.
  - Property pickups.
 
-Many of the above can be seen in the [Demonstration](demonstration) section. 
+Many of the above can be seen in the [Demonstration](demonstration.md) section. 
 
 ## Fixes
 

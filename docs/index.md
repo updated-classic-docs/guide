@@ -12,8 +12,8 @@ Updated Classic is a big modpack that restores a lot features from PS2 and Xbox 
 | Game | Version | Date | Links |
 | :-: | :----------: | :-: | :-----: |
 | GTA 3 | Build 29 | 2022.12.30 | [ENG](gta3/index.md) |
-| GTA Vice City | Build 23 |2021.05.23 | - |
-| GTA San Andreas | Build 37 | 2021.05.14 |- |
+| GTA Vice City | Build 23 |2021.05.23 | [ENG](gtavc/index.md) |
+| GTA San Andreas | Build 37 | 2021.05.14 | [ENG](gtasa/index.md) |
 | Manhunt | Build 4 | 2024.08.07 | Via Steam Community Guide - [ENG](https://steamcommunity.com/sharedfiles/filedetails/?id=2365873329) / [RUS](https://steamcommunity.com/sharedfiles/filedetails/?id=2376712693) |
 | Max Payne | Build 5 | 2024.03.17 | - |
 | Max Payne 2 | Build 6 | 2024.03.17 | - |
