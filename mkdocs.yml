@@ -67,6 +67,13 @@ nav:
     - "gtavc/download.md"    
     - "gtavc/addons.md"    
     - "gtavc/faq.md"    
-    - "gtavc/credits.md"    
+    - "gtavc/credits.md"
+  - Grand Theft Auto San Andreas:
+    - "gtasa/index.md"        
+    - "gtasa/demonstration.md"        
+    - "gtasa/download.md"        
+    - "gtasa/addons.md"        
+    - "gtasa/faq.md"        
+    - "gtasa/credits.md"        
   - Grand Theft Auto 3 [FULL TEXT]:
     - "gta3_eng.md"

@@ -40,6 +40,7 @@ In this section, you may be able to find answers to some questions related to th
 
 ??? note "After installing build, my saves made on Steam-versions stopped working."
     A Guide to Converting Saves:
+    
     1. Go to gtasnp.com and upload your save file there (located in `My Documents/GTA Vice City User Files/GTAVCsf1.b` - where the digit 1 in the file name indicates the slot number).
     2. After uploading the file to the site, expand the Modifications section.
     3. Change the value of `Release Version` to `Retail` (Windows) or Steam (Mac OS X).
