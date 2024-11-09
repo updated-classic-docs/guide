@@ -63,7 +63,10 @@ nav:
     - "gta3/credits.md" 
   - Grand Theft Auto Vice City:
     - "gtavc/index.md"
+    - "gtavc/demonstration.md"    
     - "gtavc/download.md"    
     - "gtavc/addons.md"    
+    - "gtavc/faq.md"    
+    - "gtavc/credits.md"    
   - Grand Theft Auto 3 [FULL TEXT]:
     - "gta3_eng.md"

@@ -14,7 +14,7 @@
  - Vehicles.
  - Weapons and radar icons.
  - Setting of the weather.
- - Loading screens (replacing each other, instead of one static one on thePC).
+ - Loading screens (replacing each other, instead of one static one in PC version).
  - Weapons.
  - Color correction.
  - Textures that different on the PC.
