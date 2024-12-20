@@ -1,6 +1,10 @@
 # Introduction
 
+GTA series:
 These guides are dedicated to modification collections for your favorite games. These builds of mods carries a lot of restored things from the PS2 and Xbox version that were lost in the PC port and also contains several fixes for games.
+
+Rest games:
+Guides are dedicated to pack of modifications for your favorite game. These builds of mods are carries a several fixes for the game and restore some cut content.
 
 ## What is Updated Classic?
 

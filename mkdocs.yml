@@ -74,6 +74,9 @@ nav:
     - "gtasa/download.md"        
     - "gtasa/addons.md"        
     - "gtasa/faq.md"        
-    - "gtasa/credits.md"        
+    - "gtasa/credits.md"
+  - Max Payne:
+    - "mp1/index.md" 
+    - "mp1/download.md"        
   - Grand Theft Auto 3 [FULL TEXT]:
     - "gta3_eng.md"
