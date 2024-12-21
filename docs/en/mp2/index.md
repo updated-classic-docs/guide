@@ -1,5 +1,7 @@
 # Features
 
+![alt](../../assets/mp2/mp2_0001.webp){ aligh=right width="500" }
+
 ## Changes - Part 1
 
 Differences from default PC version 

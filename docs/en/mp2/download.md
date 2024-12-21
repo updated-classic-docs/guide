@@ -31,6 +31,8 @@ Content of the archive:
 - `appmanifest_12260.acf` - File for **Max Payne 2 (RU)**
 - `appmanifest_12150.acf` - File for **Max Payne 2 The Fall of Max Payne**
 
+![alt](../../assets/mp2/mp2_0002.webp){ width="500" }
+
 ## Pre-launch
 
 Recommendations before start the game:
