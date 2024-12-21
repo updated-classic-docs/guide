@@ -33,3 +33,5 @@ In this section, you may be able to find answers to some questions related to th
 
 ??? note "Which languages are supported by this build?"
     American, British, French, German, Italian, Japanese and Spanish.
+
+![alt](../../assets/bse/chars_0002.webp){ width="500" }
