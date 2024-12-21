@@ -5,16 +5,16 @@
 
 ## Differences from the PC version
 
-Changes from PS2 & Wii versions:
+![alt](../../assets/bse/bseuc.webp){ align=left width="300" }
+
+**Changes from PS2 & Wii versions**:
 
 - Textures (some are from beta).
 - Weapons and radar icons.
 - Vehicles.
 - Photos of students in the yearbook from Wii.
 
-![alt](../../assets/bse/bseuc.webp){ align=left width="300" }
-
-Fixes:
+**Fixes**:
 
 - Added unused cutscenes.
 - Improved one loading screen.
