@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-![alt](../../assets/gta3/faq.png)
+<!-- ![alt](../../assets/gta3/faq.png) -->
 
 In this section, you may be able to find answers to some questions related to the build (the list will be updated).
 

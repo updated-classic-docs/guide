@@ -1,4 +1,4 @@
-![alt](../../assets/gta3/download.png)
+<!-- ![alt](../../assets/gta3/download.png) -->
 !!! note
     Updated Classic DOESN'T require original game or Steam. You can install a build and play Updated Classic without Steam.
 
@@ -44,7 +44,7 @@ Content of the archive:
 
 ## Pre-launch 
 
-![alt](../../assets/gta3/pre-launch.png)
+<!-- ![alt](../../assets/gta3/pre-launch.png) -->
 
 Recommendations before start the game:
 

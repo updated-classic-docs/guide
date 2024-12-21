@@ -1,4 +1,4 @@
-![alt](../../assets/gta3/demonstration.png)
+<!-- ![alt](../../assets/gta3/demonstration.png) -->
 
 ## Some of our exclusives:
 

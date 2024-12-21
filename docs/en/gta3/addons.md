@@ -1,4 +1,4 @@
-![alt](../../assets/gta3/addons.png)
+<!-- ![alt](../../assets/gta3/addons.png) -->
 
 In this section I suggest some interesting addons for your favorite game.
 By default some of them already built-it and can be enabled via `modloader/modloader.ini` file.
