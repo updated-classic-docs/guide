@@ -4,7 +4,7 @@
 
 ## Changes - Part 1
 
-Differences from default PC version 
+**Differences from default PC version:**
 
 - Game now properly supports any widescreen modes (16:9, 16:10, 21:9 etc.).
 - Fixed problems with startup and initializing Direct3D by the game engine inside DllMain.

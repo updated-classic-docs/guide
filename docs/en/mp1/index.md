@@ -1,6 +1,8 @@
 # Features
 
-## Changes - Part 1 - Differences from default PC version 
+## Changes - Part 1
+
+**Differences from default PC version:**
 
 - Game now properly supports any widescreen modes (16:9, 16:10, 21:9 etc.).
 - Fixed all problems with missing sounds and music.
@@ -111,8 +113,7 @@
 
 ## Changelog
 
-??? note "2021.09.02 - Build 2?"
-
+??? note "2021.09.02 - Build 1"
     - Added IndirectSound.
 
 ??? note "2022.02.23 - Build 2"
