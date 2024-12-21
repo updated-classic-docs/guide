@@ -1,6 +1,6 @@
 # Features
 
-## Differences from default PC version 
+## Changes - Part 1 - Differences from default PC version 
 
 - Game now properly supports any widescreen modes (16:9, 16:10, 21:9 etc.).
 - Fixed all problems with missing sounds and music.
@@ -70,7 +70,7 @@
 
 Many of the above can be seen in the [Demonstration](demonstration.md) section. 
 
-## Changes part 2
+## Changes - Part 2
 
 - All graphic novel pages are now really disabled when using Parental Lock, the only viewable page is now the new one that was mentioned earlier. 
 (This was done to bring Parental Lock in line with the text that says "all graphic novel screens are removed" when starting the game with Parental Lock on.)
@@ -131,4 +131,4 @@ Many of the above can be seen in the [Demonstration](demonstration.md) section.
     - Added an option to the d3d9.ini file to play in windowed mode without frames, in a window, and in a scaled window.
 
 ??? note "2024.03.17 - Build 5"
-    - Lost in history?
+    - Reworked 'Fugitive' difficulty.

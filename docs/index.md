@@ -1,9 +1,11 @@
 # Introduction
 
 GTA series:
+
 These guides are dedicated to modification collections for your favorite games. These builds of mods carries a lot of restored things from the PS2 and Xbox version that were lost in the PC port and also contains several fixes for games.
 
 Rest games:
+
 Guides are dedicated to pack of modifications for your favorite game. These builds of mods are carries a several fixes for the game and restore some cut content.
 
 ## What is Updated Classic?
@@ -19,8 +21,8 @@ Updated Classic is a big modpack that restores a lot features from PS2 and Xbox 
 | GTA Vice City | Build 23 |2021.05.23 | [ENG](gtavc/index.md) |
 | GTA San Andreas | Build 37 | 2021.05.14 | [ENG](gtasa/index.md) |
 | Manhunt | Build 4 | 2024.08.07 | Via Steam Community Guide - [ENG](https://steamcommunity.com/sharedfiles/filedetails/?id=2365873329) / [RUS](https://steamcommunity.com/sharedfiles/filedetails/?id=2376712693) |
-| Max Payne | Build 5 | 2024.03.17 | - |
-| Max Payne 2 | Build 6 | 2024.03.17 | - |
+| Max Payne | Build 5 | 2024.03.17 | [ENG](mp1/index.md) |
+| Max Payne 2 | Build 6 | 2024.03.17 | [ENG](mp2/index.md) |
 | Midnight Club II | Build 2 | 2023.12.24 | - |
 | Bully Scholarship Edition | Build 2 | 2022.01.23 | - |
 

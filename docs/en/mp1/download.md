@@ -28,14 +28,16 @@ Download:
 Put file in `Steam\steamapps` folder, after installation, restart Steam.
 Content of the archive:
 
-- `appmanifest_210350.acf` - File for Max Payne (RU)
-- `appmanifest_12140.acf` - File for Max Payne
+- `appmanifest_210350.acf` - File for **Max Payne (RU)**
+- `appmanifest_12140.acf` - File for **Max Payne**
 
 ## Pre-launch
 
 Recommendations before start the game:
 
-1. **In game launcher select D3D Hardware T&L in Acceleration.**
+1. **Hardware acceleration**
+    In game launcher select D3D Hardware T&L (hardware transform and lighting) in Acceleration.
+    -------IMAGE-------
 
 2. **Make sure, that you have installed all necessary components for the game.**
 
@@ -47,7 +49,7 @@ Recommendations before start the game:
 
 3. **Anti Aliasing.**
 
-    The game's anti aliasing works bad on Hardware mode. The problem is a white lines on geometry in dark places ONLY. Here is how it looks like:
+    The game's anti aliasing works bad in Hardware mode. The problem is that a white lines appear on geometry in dark places ONLY. Here is how it looks like:
 
     -------IMAGE-------
 
@@ -93,7 +95,7 @@ Recommendations before start the game:
 
 7. **Black-borders**
 
-    If you like to disable black-borders in cutscenes, open the file `Max Payne/scripts/MaxPayne.WidescreenFix.ini` via notepad and change value of parameter C`utsceneBorders` to `1`.
+    If you like to disable black-borders in cutscenes, open the file `Max Payne/scripts/MaxPayne.WidescreenFix.ini` via notepad and change value of parameter `CutsceneBorders` to `1`.
 
 8. **Screenshots**
 
@@ -108,7 +110,7 @@ Recommendations before start the game:
     Edit values of parameters `Display Height` and `Display Width` - Make sure that you selected `DECIMAL` base when editing them! - put a values of your monitor resolution.
 
     !!! note ""
-            Dipslay Height = 1080
+            Display Height = 1080
             Display Width = 2560
 
 
@@ -118,4 +120,4 @@ Recommendations before start the game:
 
     - Download the latest version of IndirectSound: https://www.indirectsound.com/
     - Unpack downloaded archived.
-    - Put files d3d9.dll and d3d9.ini into game folder (near MaxPayne.exe file).
+    - Put files `d3d9.dll` and `d3d9.ini` into game folder (next to `MaxPayne.exe` file).
