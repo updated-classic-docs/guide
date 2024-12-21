@@ -80,6 +80,10 @@ nav:
     - "mp1/download.md"
   - Max Payne 2:
     - "mp2/index.md"   
-    - "mp2/download.md"              
+    - "mp2/download.md"
+  - Bully SE:
+    - "bse/index.md"   
+    - "bse/download.md"     
+    - "bse/faq.md"            
   - Grand Theft Auto 3 [FULL TEXT]:
     - "gta3_eng.md"
