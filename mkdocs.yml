@@ -84,6 +84,9 @@ nav:
   - Bully SE:
     - "bse/index.md"   
     - "bse/download.md"     
-    - "bse/faq.md"            
-  - Grand Theft Auto 3 [FULL TEXT]:
-    - "gta3_eng.md"
+    - "bse/faq.md"
+  - Midnight Club II:
+    - "mc2/index.md"
+    - "mc2/download.md"                
+  # - Grand Theft Auto 3 [FULL TEXT]:
+  #   - "gta3_eng.md"
