@@ -73,7 +73,8 @@ If you have any technical problems/questions, see the  section. ["Frequently Ask
      - Grand Theft Auto Vice City/scripts/ucic.log.
 
 ## Installing updates
-With each update, we completely re-upload the build. So, to install the update, you need to download the new Updated Classic build and unpack it into a clean folder.
-**Never install the update over the previous build!**
+!!! warning
+    With each update, we completely re-upload the build. So, to install the update, you need to download the new Updated Classic build and unpack it into a clean folder.
+    **Never install the update over the previous build!**
 
 ![alt](../../assets/gtavc/char_0007.webp)
