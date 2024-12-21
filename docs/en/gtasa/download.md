@@ -30,7 +30,7 @@ This is necessary so game itself and installed mods work properly. You may think
 !!! note
     If you want to install the build without downloading the Steam version of the game, you can simply use the {++.acf++} file from the archive below, which is responsible for having the installed game on Steam.
 Download:
-[Yandex.disk](https://yadi.sk/d/cmUtWcZrMXOWWg) / [Google Drive](https://drive.google.com/file/d/1PIGmoXOuI6EXkFPmktnnszwqQ_oGxwY7)
+[Mega](https://mega.nz/folder/ao4ByTRa#tHdTLWa6hiUn-FzcmfqdEA/file/D9olQb4K) / [Google Drive](https://drive.google.com/file/d/1PIGmoXOuI6EXkFPmktnnszwqQ_oGxwY7)
 
 Put file in `Steam\steamapps` folder, after installation, restart Steam.
 Content of the archive:
@@ -62,7 +62,7 @@ Recommendations before start the game:
 
     This will make the textures look as good as possible. Without anisotropic filtering, textures (mostly roads) will be blurry at close range.
 
-If you have any technical problems/questions, see the  section. ["Frequently Asked Questions"](../gtavc/faq.md)
+If you have any technical problems/questions, see the  section. ["Frequently Asked Questions"](../gtasa/faq.md)
 
 !!! tip "If you still have problems with the build" 
     Contact with us on our Discord server ("🔨｜support" channel). If the build has crashed, please attach these files to your report message

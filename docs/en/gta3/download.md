@@ -31,7 +31,7 @@ This is necessary so game itself and installed mods work properly. You may think
 !!! note
     If you want to install the build without downloading the Steam version of the game, you can simply use the {++.acf++} file from the archive below, which is responsible for having the installed game on Steam.
 Download:
-[Yandex.disk](https://yadi.sk/d/cmUtWcZrMXOWWg) / [Google Drive](https://drive.google.com/file/d/1PIGmoXOuI6EXkFPmktnnszwqQ_oGxwY7)
+[Mega](https://mega.nz/folder/ao4ByTRa#tHdTLWa6hiUn-FzcmfqdEA/file/D9olQb4K) / [Google Drive](https://drive.google.com/file/d/1PIGmoXOuI6EXkFPmktnnszwqQ_oGxwY7)
 
 Put file in `Steam\steamapps` folder, after installation, restart Steam.
 Content of the archive:
