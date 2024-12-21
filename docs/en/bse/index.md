@@ -1,5 +1,8 @@
 # Features
 
+![alt](../../assets/bse/chars_0001.webp){ width="500" }
+
+
 ## Differences from the PC version
 
 Changes from PS2 & Wii versions:
@@ -8,6 +11,8 @@ Changes from PS2 & Wii versions:
 - Weapons and radar icons.
 - Vehicles.
 - Photos of students in the yearbook from Wii.
+
+![alt](../../assets/bse/bseuc.webp){ align=left width="300" }
 
 Fixes:
 
@@ -43,3 +48,5 @@ Fixes:
     - Changed Hal's school logo.
     - Troy only wears jeans now.
     - Bob's hair colour has been changed, as well as his skin colour as in the cutscene.
+
+![alt](../../assets/bse/chars_0006.webp){ width="500" }

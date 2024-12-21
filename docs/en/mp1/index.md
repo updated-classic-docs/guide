@@ -68,8 +68,6 @@
 - The "coder" console command now sets the total amount of Bullet Time to maximum.
 - The "flesh" material now also behaves just like the "character" material by using the same particle effects and sounds.
 
-Many of the above can be seen in the [Demonstration](demonstration.md) section. 
-
 ## Changes - Part 2
 
 - All graphic novel pages are now really disabled when using Parental Lock, the only viewable page is now the new one that was mentioned earlier. 

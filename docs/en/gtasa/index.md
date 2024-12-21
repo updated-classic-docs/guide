@@ -243,4 +243,4 @@ Many of the above can be seen in the [Demonstration](demonstration.md) section.
     - Removed addon "Co-op Anytime".
     - Removed addon "Extra Draw Distance".
 
-![alt](../../assets/gtavc/char_0004.webp)
+![alt](../../assets/gtasa/char_0005.webp)

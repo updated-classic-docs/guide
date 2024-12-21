@@ -37,6 +37,9 @@ Content of the archive:
 
 - `appmanifest_12200.acf` - File for **Bully: Scholarship Edition**
 
+![alt](../../assets/bse/chars_0008.webp){ width="500" }
+
+
 ## Pre-launch 
 
 Recommendations before start the game:
@@ -50,5 +53,8 @@ Recommendations before start the game:
     - Visual C++ Redistributable Hybrid - `ReadMe/Prerequisites/Visual C++ Redistributable Hybrid/VCR_Hyb_x86_x64_24.04.2019.exe`
 
 ## Installing updates
-With each update, we completely re-upload the build. So, to install the update, you need to download the new Updated Classic build and unpack it into a clean folder.
-**Never install the update over the previous build!**
+!!! warning
+    With each update, we completely re-upload the build. So, to install the update, you need to download the new Updated Classic build and unpack it into a clean folder.
+    **Never install the update over the previous build!**
+
+![alt](../../assets/bse/chars_0010.webp){ align=left width="500" }

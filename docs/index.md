@@ -4,10 +4,6 @@ GTA series:
 
 These guides are dedicated to modification collections for your favorite games. These builds of mods carries a lot of restored things from the PS2 and Xbox version that were lost in the PC port and also contains several fixes for games.
 
-Rest games:
-
-Guides are dedicated to pack of modifications for your favorite game. These builds of mods are carries a several fixes for the game and restore some cut content.
-
 ## What is Updated Classic?
 
 Updated Classic is a big modpack that restores a lot features from PS2 and Xbox (original) versions, combines it with PC and gives a lot of improvements and fixes (that won't destroy original atmosphere), even exclusive ones so you won't find them anywhere else (if it hasn't been stolen). And we're working hard on it, spending hours, days and even months to fix some issues that can be already present in the games or can be caused by mods. And we're working a few years on this already.
@@ -24,6 +20,6 @@ Updated Classic is a big modpack that restores a lot features from PS2 and Xbox 
 | Max Payne | Build 5 | 2024.03.17 | [ENG](mp1/index.md) |
 | Max Payne 2 | Build 6 | 2024.03.17 | [ENG](mp2/index.md) |
 | Midnight Club II | Build 2 | 2023.12.24 | - |
-| Bully Scholarship Edition | Build 2 | 2022.01.23 | - |
+| Bully Scholarship Edition | Build 2 | 2022.01.23 | [ENG](bse/index.md) |
 
 
