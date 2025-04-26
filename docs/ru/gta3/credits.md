@@ -1,4 +1,4 @@
-# Authors
+# Авторы
 
 <!-- ![alt](../../assets/gta3/authors.png)  -->
 

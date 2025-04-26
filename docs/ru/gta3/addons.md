@@ -1,3 +1,4 @@
+# Аддоны
 <!-- ![alt](../../assets/gta3/addons.png) -->
 
 В данном разделе я предлагаю несколько интересных дополнений для вашей любимой игры.
@@ -84,15 +85,15 @@
 !!! note "" 
     `(addon) ps2 crosshair ps2 weapons and radar icons = 100`
 
-    For 'Classic Interface' addon:
+    Для аддона 'Classic Interface':
 
     `(addon) ps2 crosshair ps2 weapons and radar icons classic = 100`
 
-    For 'PC weapons and radar icons' addon:
+    Для аддона 'PC weapons and radar icons':
 
     `(addon) ps2 crosshair pc weapons and radar icons = 100`
 
-    For both 'Classic Interface' and 'PC weapons and radar icons' addons:
+    Для аддонов 'Classic Interface' и 'PC weapons and radar icons' вместе:
 
     `(addon) ps2 crosshair pc weapons and radar icons classic = 100`
 

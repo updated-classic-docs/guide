@@ -1,83 +1,88 @@
+# Скачать
 <!-- ![alt](../../assets/gta3/download.png) -->
+
 !!! note
-    Updated Classic DOESN'T require original game or Steam. You can install a build and play Updated Classic without Steam.
+    Updated Classic НЕ требует наличия оригинальной игры или Steam'а. Сборка устанавливается отдельно и Вы можете играть в Updated Classic без Steam'а.
 
-    We have a build versioning that helps track changes and allows end users to determine how up to date their version is.. 
+    Мы подписываем версии своих сборок, чтобы было проще ориентироваться со свежестью версий.
     
-    Right now, ^^Build 29^^ is available for Grand Theft Auto III.
+    На данный момент доступен ^^Build №29^^ для Grand Theft Auto III.
 
-You can download here : [Mega](https://mega.nz/file/LpAXzL7A#0Fkx-YtC-tmJuin8_F2Lw1yZihuu_jkTS2EeXk9keAA) / [Google Drive](https://drive.google.com/file/d/19d5hf1e9GIFHc9q8NFXiI_HLQ4H3IvL0) (Size: 1.05 GB)
+Скачать можно здесь : [Mega](https://mega.nz/file/LpAXzL7A#0Fkx-YtC-tmJuin8_F2Lw1yZihuu_jkTS2EeXk9keAA) / [Google Drive](https://drive.google.com/file/d/19d5hf1e9GIFHc9q8NFXiI_HLQ4H3IvL0) (Размер: 1.05 GB)
 
-## Install
-Build works perfectly without Steam. But, if you want to play it through Steam, then follow the instructions below.    
+## Установка
+Сборка легко работает независимо от Steam'а. Но, если хотите играть в неё именно через Steam, то следуйте инструкциям ниже.   
 
-So, you downloaded the archive and do not know what to do next.
+Итак, Вы скачали архив и не знаете, что делать дальше.
 
-1. **Remove the Steam Version:**  
-    First, you need to remove all files from the original Steam version of the game. 
+1. **Убираем купленное Вами недоразумение:**  
+    Для начала нужно удалить все файлы оригинальной Steam-версии игры. 
+    
+    Для этого кликните по `Grand Theft Auto III` правой кнопкой мыши в Вашей библиотеке `Steam`, и выберите там `Свойства` > `Локальные Файлы` > `Просмотреть Локальные Файлы`.... После данного действия у Вас должна открыться папка с игровыми файлами. Просто удалите из папки всё.
 
-    To do this, click on the `Grand Theft Auto III` with the right mouse button in your `Steam library` and select `Properties` > `Local Files`> > `Browse Local Files`.... After this action you will have to open the folder with the game files. Just delete them all.
+2. **Реабилитация игры**  
+    Далее всё просто. Всё, что Вам осталось - распаковать архив UC GTA III Build и положить файлы на место удалённых файлов Steam-версии.
 
-2. **Installing Normal Version of the game:**  
-Now everything is simple. All you have to do is unpack UC GTA III Build archive, take all the files from it's root directory and move it to your steam-version folder (which must be empty). When you move (or copy) all these files, you'll be ready to play.
-
-3. **Install all necessary components for the game from the folder ReadMe/Prerequisites.**  
-This is necessary so game itself and installed mods work properly. You may think, that it's not really necessary installing these libraries, but it can give a guarantee, that you won't see an error like "Can't find file.dll". We truly recommend to install it because it's useful not only for this build, but for any other games.
+3. **Установите все необходимые для игры компоненты из папки ReadMe/Prerequisites.**  
+    Это нужно для корректной работы игры и модов. Может показаться, что это не особо нужный элемент установки, но на самом деле это даёт гарантию, что у вас при запуске не выползет ошибка в духе "Не найден файл.dll". Так что рекомендуем установить их, так как это полезно не только для данной сборки, но и для любых других игр.
 
     - DirectX Pack - `ReadMe/Prerequisites/Direct X/DXSETUP.exe`
     - Runtime Pack - `ReadMe/Prerequisites/Runtime Pack/RuntimePack_x86_x64.exe`
     - Visual C++ Redistributable Hybrid - `ReadMe/Prerequisites/Visual C++ Redistributable Hybrid/VCR_Hyb_x86_x64_24.04.2019.exe`
 
 !!! note
-    If you want to install the build without downloading the Steam version of the game, you can simply use the {++.acf++} file from the archive below, which is responsible for having the installed game on Steam.
-Download:
+    Если Вы хотите сразу поставить сборку без скачивания Steam-версии игры, то можете просто использовать соответствующий {++.acf++} файл из архива ниже, который отвечает за наличие установленной игры в Steam.
+Скачать:
 [Mega](https://mega.nz/folder/ao4ByTRa#tHdTLWa6hiUn-FzcmfqdEA/file/D9olQb4K) / [Google Drive](https://drive.google.com/file/d/1PIGmoXOuI6EXkFPmktnnszwqQ_oGxwY7)
 
-Put file in `Steam\steamapps` folder, after installation, restart Steam.
-Content of the archive:
+Файл положить в `Steam\steamapps` папку, после установки перезагрузите Steam.
+Содержание архива:
 
-- `appmanifest_12100.acf` - File for Grand Theft Auto III
-- `appmanifest_12110.acf` - File for Grand Theft Auto: Vice City
-- `appmanifest_12120.acf` - File for Grand Theft Auto: San Andreas
+- `appmanifest_12100.acf` - Файл для Grand Theft Auto III
+- `appmanifest_12110.acf` - Файл для Grand Theft Auto: Vice City
+- `appmanifest_12120.acf` - Файл для Grand Theft Auto: San Andreas
 
 ![alt](../../assets/gta3/char_0001.png)
 
-## Pre-launch 
+## Перед запуском
 
 <!-- ![alt](../../assets/gta3/pre-launch.png) -->
 
-Recommendations before start the game:
+Рекомендации перед запуском:
 
-1. **Turn on Frame Limiter in game display settings.**
+1. **В настройках дисплея включить ограничитель кадров.**
 
-    This is necessary for the game to work correctly. Since the game was not designed for high FPS, all sorts of problems appear because of it: some missions do not load, physics breaks.
-    Rockstar's official ReadMe also contains this recommendation.
+    Это нужно для корректной работы игры. Так как игра не была рассчитана на высокий FPS, из-за него появляются разного рода проблемы: не загружаются некоторые миссии, ломается физика.
+    В официальных ReadMe от Rockstar также эта рекомендация присутствует.
 
-2. **Make sure, that you have installed all necessary components for the game.**
+2. **Убедитесь, что у вас установлены все необходимые для игры компоненты.**
 
-    If you're not sure about this, you certainly need to visit Readme/Prerequisites and install:
+    Если не уверены, обязательно зайдите в папку `Readme/Prerequisites` и установите:
 
     - DirectX Pack - `ReadMe/Prerequisites/Direct X/DXSETUP.exe`
     - Runtime Pack - `ReadMe/Prerequisites/Runtime Pack/RuntimePack_x86_x64.exe`
     - Visual C++ Redistributable Hybrid - `ReadMe/Prerequisites/Visual C++ Redistributable Hybrid/VCR_Hyb_x86_x64_24.04.2019.exe`
 
-3. **Set the value of anisotropic filtering in the settings of your video card to the maximum value available.**
+3. **Задайте значение анизотропной фильтрации в настройках Вашей видео-карты на максимально доступное значение.**
 
-    This will make the textures look as good as possible. Without anisotropic filtering, textures (mostly roads) will be blurry at close range.
+    Это нужно, чтобы текстуры выглядили максимально хорошо. Без применения анизотропной фильтрации, текстуры (в основном дорог) будут размытыми на близких дистанциях.
 
-If you have any technical problems/questions, see the  section. ["Frequently Asked Questions"](../gta3/faq.md)
+Если у Вас есть какие-то технические проблемы/вопросы, то смотрите раздел ["Вопросы и ответы"](../gta3/faq.md)
 
-!!! tip "If you still have problems with the build" 
-    Contact with us on our Discord server ("🔨｜support" channel). If the build has crashed, please attach these files to your report message
+!!! tip "Если у Вас есть проблемы со сборкой" 
+    Свяжитесь с нами на нашем Discord сервере(канал "🔨｜support") или в нашей Группе ВК (в личные сообщения группы).
+
+    Если сборка вылетела, пожалуйста, приложите эти файлы к вашему сообщению ДО повторного захода в игру:
 
      - Grand Theft Auto 3/modloader/modloader.log.
      - Grand Theft Auto 3/mss/scrlog.log.
      - Grand Theft Auto 3/cleo.log.
      - Grand Theft Auto 3/scripts/ucic.log.
 
-## Installing updates
+## Установка обновлений
 !!! warning
-    With each update, we completely re-upload the build. So, to install the update, you need to download the new Updated Classic build and unpack it into a clean folder.
-    **Never install the update over the previous build!**
+    При каждом обновлении мы полностью перезаливаем сборку. Потому, для установки обновления необходимо скачать новый билд Updated Classic и распаковать его в чистую папку.
+    
+    **Ни в коем случае не устанавливайте обновление поверх предыдущей сборки!**
 
 ![alt](../../assets/gta3/char_0002.png)

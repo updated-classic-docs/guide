@@ -1,83 +1,85 @@
-# Frequently Asked Questions
-
+# Вопросы и Ответы
 <!-- ![alt](../../assets/gta3/faq.png) -->
 
-In this section, you may be able to find answers to some questions related to the build (the list will be updated).
+В этом разделе Вы, возможно, сможете найти ответы на некоторые вопросы, связанные со сборкой (список будет пополняться).
 
-??? note "Can I install third-party modifications to the build?"
-    Yes, but please note that this can cause various technical problems/issues and you will lose our support in these matters.
+!!! note "Могу ли я ставить сторонние модификации на сборку?"
+    Да, но учтите, что это может вызвать различные технические проблемы/ошибки и Вы потеряете нашу поддержку в этих вопросах.
 
-??? note "Which Windows versions are supported?"
-    Windows 7 SP1, 8 and 10.
+??? note "Какие версии Windows поддерживаются?"
+    Windows 7 SP1, 8 и 10.
 
-??? note "Will there be Liberty Unleashed or Multi Theft Auto support?"
-    Not planned.
+??? note "Будет ли поддержка мультиплеера Liberty Unleashed или Multi Theft Auto?"
+    Нет.
 
-??? note "The game is very slow"
-    1. In file Grand Theft Auto 3/scripts/GTA3.WidescreenFix.ini set for parameter **ForceMultisamplingLevel** value 0.
-    2. Delete file Grand Theft Auto 3/mss/scrlog.asi.
+??? note "Игра сильно тормозит"
+    1. В файле Grand Theft Auto 3/scripts/GTA3.WidescreenFix.ini у ForceMultisamplingLevel поставьте 0.
+    2. Удалите файл Grand Theft Auto 3/mss/scrlog.asi.
 
-    ==WARNING! If you'll complete a second step - there is will problems with support!==
+    ==ВНИМАНИЕ! Если вы выполните второй шаг - возникнут проблемы с поддержкой!==
 
-??? note "When the game starts, the window with the message "AppId is not configured." comes out."
-    Delete the file Grand Theft Auto 3/mss/GInputIII.asi.
+??? note "При старте игры вылезает окно с сообщением "AppId is not configured."
+    1. Убедитесь, что на пути к EXE файлу нет русских названий. Весь путь к исполняемому файлу должен быть на английском.
+    2. Удалите файл Grand Theft Auto 3/mss/GInputIII.asi.
     
-    Note: After this, support for gamepad will be lost.
+    ==ВНИМАНИЕ! После этого действия пропадёт поддержка геймпадов.==
 
-??? note "Game doesn't launch or black screen after launch / When resolution setting identical to the resolution of the monitor, the game freeze/crashes / Error: Cannot find "1x1x1" video mode."
-    1. In properties of gta3.exe go to Compatibility, select Change high DPI settings and turn ON following parameters:
-    "Program DPI: when I open this program"
-    "High DPI scaling override: Application".
-    2. In the file Grand Theft Auto 3/scripts/GTA3.WidescreenFix.ini in the parameters ResX and ResY set the resolution values of your monitor.
-    Example:
+??? note "Игра не запускается/При запуске чёрный экран / При установлении разрешения, соотвествующего разрешению монитора игра зависает/вылетает / Error: Cannot find "1x1x1" video mode."
+    1. Обновите DirectX и установите DirectPlay.
+    2. Удалите файл Мои Документы/GTA3 User Files/gta3.set.
+    3. Поставте совместимость с Windows XP SP3 (например).
+    4. В свойствах gta3.exe в вкладке Совместимость нажмите Изменить параметры высокого DPI и установите галочки для:
+    "Разрешение программы: когда я открою эту программу"
+    "Переопределение масштабирования: Приложение".
+    5. В файле Grand Theft Auto 3/scripts/GTA3.WidescreenFix.ini в параметрах ResX и ResY выставить значения разрешения своего монитора.
+    Пример:
         `ResX = 1920`
         `ResY = 1080`
-    3. Install DirectPlay.
-    4. Delete file My Documents/GTA3 User Files/gta3.set.
-    5. Set the compatibility with Windows XP SP3 (for example).
 
-??? note "Intro movies don't work."
-    Set Compatibility with Windows XP Service Pack 3 and install codecs.
+??? note "Интро-ролики не работают."
+    Поставите Совместимость с Windows XP Service Pack 3 и установите кодеки.
 
-??? note "When I start the game, I get the Could not detect game version and/or This game is not supported errors."
-    Delete the file:
-    Grand Theft Auto 3/scripts/modloader.asi
-    Note: After this, some addons will not work.
+??? note "При запуске игры появляются ошибки Could not detect game version и This game is not supported."
+    Удалите файл:
+    `Grand Theft Auto 3/scripts/modloader.asi`
+    
+    ==Внимание! После этого действия некоторые аддоны перестанут работать.==
 
-??? note "How do I activate the tips with the PS2 gamepad buttons?"
-    In the Grand Theft Auto 3/mss/GInputIII.ini file, set the "PlayStationButtons" value to 1.
+??? note "Как активировать подсказки с кнопками для геймпада от PS2?"
+    В файле Grand Theft Auto 3/mss/GInputIII.ini параметру "PlayStationButtons" поставте значение 1.
 
-??? note "When I try to extract files from the archive, it gives me an error: Can not open file or Archive corrupted."
-    Update your archiver or use another.
+??? note "При попытке распаковать архив выдаёт ошибку: Невозможно открыть файл или Архив повреждён."
+    Обновите свой архиватор или используйте другой.
 
-??? note "How to enable/disable the "black borders" in cutscenes?"
-    In Display Setup (in game) turn on "Wide screen" feature.
+??? note "Как включить/выключить "чёрные полосы" в кат-сценах?"
+    В Display Setup (в игре) переключите параметр "Wide screen".
 
-??? note "When launched via Steam, the game crashes without error after the intro clips."
-    Make sure that the game and Steam are installed on the same drive.
+??? note "При запуске через Steam игра вылетает без ошибки после интро-роликов."
+    Убедитесь, что игра и Steam установлены на одном диске.
 
-??? note "How to setup controls on gamepad?"
-    In the mss/GinputIII.ini file, you need the "ControlsSet" option. All available control "sets" can be found in the file ReadMe/Ginput docs/GAME CONTROLS FULL LIST.txt.
+??? note "Как настроить управление на геймпаде?"
+    В файле Mss/GinputIII.ini найдите параметр "ControlsSet". Все доступные пресеты управления можно найти в ReadMe/Ginput docs/GAME CONTROLS FULL LIST.txt.
 
-??? note "I have a resolution different than 16:9, the menu screens and loadscreens do not fit on the monitor."
-    Open file Scripts/GTA3.WidescreenFix.ini, find ForceAspectRatio and FrontendAspectRatio parameters, then change it's value to your aspect ratio.
-    Example:
+??? note "У меня разрешение экрана не 16:9, экраны меню и загрузки не влезают в экран."
+    Откройте файл Scripts/GTA3.WidescreenFix.ini, найдите параметры ForceAspectRatio и FrontendAspectRatio, затем выставите им значения Вашего соотношения сторон.
+    Пример:
     ```ForceAspectRatio = 16:10
     FrontendAspectRatio = 16:10```
 
-??? note "Which languages are supported by this build?"
-    English, French, German, Italian, Spanish and Russian.
+??? note "Какие языки поддерживает сборка?"
+    Английский, Французский, Немецкий, Итальянский, Испанский и Русский.
 
-??? note "I like to return a blur like on PS2 version."
-    Delete file Scripts/SharpTrails.asi.
+??? note "Я бы хотел вернуть размытие с PS2 версии."
+    Удалите файл Scripts/SharpTrails.asi.
 
-??? note "An error before startup: "Unable to load rundll32exefix.asi. Error: 193""
-    Move rundll32exefix.asi file from scripts folder to mss folder.
+??? note "Перед запуском ошибка: "Unable to load rundll32exefix.asi. Error: 193""
+    Переместите файл rundll32exefix.asi из папки scripts в папку mss.
 
-??? note "What version of the game is the Updated Classic based on?"
+??? note "На какой версии игры основана Updated Classic?"
     1.0
 
-??? note "Game crashing at loading screens."
-    Make sure that your anti-virus didn't delete any game files. Add a game folder to exceptions and reinstall build.
+??? note "Игра вылетает на загрузке."
+    Убедитесь, что ваш анти-вирус не удалил файлы игры. Внесите папку с игрой в исключения и переустановите сборку.
+
 
 ![alt](../../assets/gta3/char_0008.png) 

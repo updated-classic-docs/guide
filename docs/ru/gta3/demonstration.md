@@ -1,12 +1,12 @@
 <!-- ![alt](../../assets/gta3/demonstration.png) -->
 
-## Some of our exclusives:
+## Немного из наших эксклюзивов:
 
 ![alt](../../assets/gta3/demo/ex_preview_1.jpg)
 ![alt](../../assets/gta3/demo/ex_preview_2.jpg)
 Additional images will be added later. 
 
-## Additional in-game screenshots made in 2020-2021:
+## Дополнительные скриншоты сделанные в 2020-2021:
 
 ![alt](../../assets/gta3/demo/preview_1.jpg)
 ![alt](../../assets/gta3/demo/preview_2.jpg)
