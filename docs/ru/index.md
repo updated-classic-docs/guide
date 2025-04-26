@@ -4,13 +4,13 @@ GTA series:
 
 These guides are dedicated to modification collections for your favorite games. These builds of mods carries a lot of restored things from the PS2 and Xbox version that were lost in the PC port and also contains several fixes for games.
 
-## What is Updated Classic?
+## Что такое Updated Classic?
 
 Updated Classic is a big modpack that restores a lot features from PS2 and Xbox (original) versions, combines it with PC and gives a lot of improvements and fixes (that won't destroy original atmosphere), even exclusive ones so you won't find them anywhere else (if it hasn't been stolen). And we're working hard on it, spending hours, days and even months to fix some issues that can be already present in the games or can be caused by mods. And we're working a few years on this already.
 
 ==GTA pages will be translated to Russian eventually, but rest will remain in English only.==
 
-## Release list
+## Список выпусков
 
 | Game | Version | Date | Links |
 | :-: | :----------: | :-: | :-----: |
