@@ -1,3 +1,7 @@
+---
+i18n: false
+---
+
 # Introduction
 
 GTA series:
