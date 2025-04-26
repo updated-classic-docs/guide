@@ -1,6 +1,4 @@
----
-i18n: false
----
+<meta http-equiv="refresh" content="0; url=/guide/">
 
 # Introduction
 
