@@ -21,7 +21,7 @@
 - Камера при входе в транспорт.
 - Цветовая коррекция.
 
-Many of the above can be seen in the [Demonstration](demonstration.md) section. 
+Некоторые изменения можно посмотреть в разделе [Демонстрации](demonstration.md). **Не обновляется!**
 
 ## Исправления
 

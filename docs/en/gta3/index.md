@@ -21,7 +21,7 @@
 - Camera when getting in car.
 - Color correction.
 
-Many of the above can be seen in the [Demonstration](demonstration.md) section. 
+Many of the above can be seen in the [Demonstration](demonstration.md) section. **Outdated!**
 
 ## Fixes
 
