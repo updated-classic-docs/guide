@@ -1,5 +1,5 @@
 site_name: Updated Classic documentation
-site_url: https://updated-classic-docs.github.io/
+site_url: https://updated-classic-docs.github.io/guide
 markdown_extensions:
   - admonition
   - pymdownx.details
