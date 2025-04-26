@@ -137,7 +137,7 @@ Many of the above can be seen in the [Demonstration](demonstration.md) section.
 
     - Yardie gang member are now have different skins.
     - Lampposts in Shoreside Vale are now destroyable.
-    - [Exclusive] A lot of map fixes:
+    - ==[Exclusive]== A lot of map fixes:
         - Fixed objects prelight;
         - Fixed missing and flipped textures;
         - Fixed UV-mapping;

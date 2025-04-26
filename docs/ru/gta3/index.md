@@ -2,186 +2,192 @@
 
 ![about](../../assets/gta3/about_heli.png)
 
-## Differences from the PC version 
+## Отличия от PC версии
 
 ![Image title](../../assets/gta3/gta3uc.png){ align=left width="300" }
 
-- Vehicles.
-- Icons of weapons and radar.
-- Setting of the weather.
-- The colors of the vehicles.
-- Reflections on the vehicles.
-- Effects: Fire, rain, smoke and water spray.
-- Load screens (replacing each other, instead of one static one on the PC).
-- Radio station Double Clef FM (with the restored song "O mio babbino caro").
-- Better sound quality.
-- Glows under pickups.
-- Headlights now work correctly.
-- Police radio dispatch voice sound.
-- Camera when getting in car.
-- Color correction.
+- Транспортные средства.
+- Иконки оружия и радара.
+- Цветовая настройка погоды.
+- Цвета машин.
+- Отражения на машинах.
+- Эффекты: Огонь, дождь, дым и брызги воды.
+- Загрузочные экраны (сменяющие друг друга, вместо одного статичного на PC).
+- Радиостанция Double Clef FM (с восстановленной песней "O mio babbino caro").
+- Более лучшее качество звука.
+- Подсветка пикапов.
+- Свет от фар теперь отображается правильно (один из плюсов оригинальной Steam-версии).
+- Звуки полицейских сообщений по рации.
+- Камера при входе в транспорт.
+- Цветовая коррекция.
+
 Many of the above can be seen in the [Demonstration](demonstration.md) section. 
 
-## Fixes
+## Исправления
 
-- The mouse no longer goes beyond the screen, which makes it easy to play on multiple monitors.
-- A more accurate frame count per second, removing lags when the frame limiter is on.
-- The game will not ask for a CD when all the audio files are copied to the disc.
-- The cheat code for armor is now "TORTOISE" - as in version 1.1.
-- The "BOOOOORING" bitcode is now working correctly - as in version 1.1.
-- Mouse sensitivity now works correctly - as in version 1.1.
-- The problem with Purple Nines disappear has been fixed.
-- The game now works a little better with a high FPS. However, there are still problems with the physics of cars, gravity and sounds.
-- Rhino, the generated with cheat-code no longer remained on the map forever.
-- Blista is now accepted by a crane on scrap metal. However, now the Coach is not accepted there.
-- When firing from the M16 from the first person is now correctly counted the number of bullets.
-- Reflections on wet roads have been corrected.
-- The text relating to garages and rampages is now correctly scaled by screen resolution.
-- All text now has the correct shadows (depending on the selected resolution).
-- The mouse sensitivity on the Y axis is now synchronized with X.
-- The interface now has the correct size relative to the screen resolution.
-- Added full support for gamepads.
-- Added mip-map levels for all textures.
-- The police helicopter now has a shadow.
-- Various fixes on the map.
-- In the folder "ReadMe" you can find the manual for the game.
-- A bug with black vehicles has been fixed.
-- Many vehicles fixes.
-- First cut-scene now have an English subtitles for news messages.
-- Game now can use up to 4 GB RAM.
-- Fixed aiming with flamethrower.
-- (Exclusive) Fixed all scrollbars.
-- Now Claude siting in boat.
-- Disabled Stunt-camera for Dodo.
-- (Exclusive) Big textures research. Many textures was replaced with their better analogs (not HD).
-- Added HD icon for the game (can be found in the Icons folder).
-- Users with Creative SoundBlaster cards now could select EAX, EAX 3.0, A3D and DirectSoundHW modes by using Creative ALchemy.
+- Мышь больше не заходит за пределы экрана, что позволяет без проблем играть на нескольких мониторах.
+- Более точный подсчёт кадров в секунду, убирающий лаги при включённом ограничителе кадров.
+- Игрой не будет запрашиваться компакт-диск, когда все аудио-файлы будут скопированы на диск.
+- Чит-код на броню теперь "TORTOISE" - как в версии 1.1.
+- Чит-код "BOOOOORING" теперь работает правильно - как в версии 1.1.
+- Чувствительность мыши теперь работает правильно - как в версии 1.1.
+- Проблема с исчезновением Purple Nines была исправлена.
+- Игра теперь работает немного лучше при высоком FPS. Однако, всё ещё есть проблемы с физикой автомобилей, гравитацией и звуками.
+- Rhino, созданный чит-кодом больше не остаётся на карте навсегда.
+- Blista теперь принимается краном на металлоломе. Однако, теперь там не принимается Coach.
+- При стрельбе с M16 от первого лица теперь правильно подсчитывается количество пуль.
+- Отражения на мокрых дорогах были исправлены.
+- Текст, относящийся к гаражам и rampage'ам, теперь правильно масштабируется по разрешению экрана.
+- Весь текст теперь имеет правильные тени (в зависимости от выбранного разрешения).
+- Чувствительность мыши по оси Y теперь синхронизирована с X.
+- Интерфейс теперь имеет правильный размер относительно разрешения экрана.
+- Добавлена полная поддержка геймпадов.
+- Добавлены мип-мап уровни для всех игровых текстур.
+- Полицейский вертолёт теперь имеет тень.
+- Различные исправления на карте.
+- В папке "ReadMe" можно найти мануал к игре.
+- Баг с чёрными машинами был исправлен.
+- Много разных исправлениях на машинах.
+- В начальной кат-сцене теперь имеются английские субтитры к сообщениям новостей.
+- Игра теперь может использовать до 4 ГБ ОЗУ.
+- Исправлено прицеливание с огнемёта.
+- (Эксклюзив) Исправлено положение всех бегущих строк.
+- Теперь Клод сидит в лодках, а не стоит.
+- Отключена Stunt-камера для Dodo.
+- (Эксклюзив) Проведён огромный ресёрч всех текстур. Множество из них заменены на лучшие аналоги (не HD).
+- Добавлена HD иконка для игры (может быть найдена в Icons папке).
+- Пользователи звуковых карт Creative SoundBlaster теперь могут выбрать режимы EAX, EAX 3.0, A3D и DirectSoundHW, используя Creative ALchemy.
 
-## Changelog
+## Список изменений
 
 ??? note "2020.04.21 - Build 27"
-    - Minor textures and collision fixes.
+    - Мелкие исправления текстур и коллизий.
 
 ??? note "2021.09.30 - Build 28"
-    - Intro clips replaced with PS2 version.
-    - Fixed an issue where you couldn't deal damage with bat and flamethrower after    ~15 minutes of play.
-    - In 'Under Surveillance' mission, cutscene and text are in sync with the meaning      of the mission.
-    - The 'Gesundheit' cheat now fixes the appearance of vehicles.
-    - Huge number of improved and corrected collisions.
-    - Belleville Park's lake are now has reflections.
-    - Fixed Ghost.
-    - Fixed the wall at the Panlantic construction site.
-    - ==[Exclusive]== Fixed font in stats as in version 1.01.
-    - Airtrain, Deaddodo and Chopper now have collision.
-    - Leon Macaffrey now has a unique model with the head from LCS.
-    - ==[Exclusive]== Pedestrian male01 has the phrase "I Designed PS2" back from the PS2      version.
-    - ==[Exclusive]== Restored 3 cut parked cars.
-    - ==[Exclusive]== Added Claude's sole texture.
-    - ==[Exclusive]== Added headlights and chrome bumper to BF Injection.
-    - ==[Exclusive]== Fixed Asuka's whip in the 'Grand Theft Aero' cutscene.
-    - ==[Exclusive]== Police code 48 (speeding) is no longer played.
-    - Deaddodo tracks are replaced with original ones.
-    - ==[Exclusive]== Unique police conversations in missions are taken from PS2.
-    - Claude's running animation is replaced with the PC version.
-    - Dodo's model is fixed.
-    - ==[Exclusive]== Fixed missing number 2 on one of the garage doors in Portland.
-    - ==[Exclusive]== Quadruple Instase Stunt Bouns is now can be achieved.
-    - ==[Exclusive]== 'Bling-Bling Scramble' and 'Plaster Blaster' missions now have 3     paths, like on PS2.
-    - Shoreside save house now has all 3 garage doors opens.
-    - Fixed an issue where the 'Radio Head' station would pop up when entering a   service vehicle.
-    - Fixed problem with FBI Car colors.
-    - ==[Exclusive]== Claude is no longer visible in some locations during the credits.
-    - ==[Exclusive]== Various corrections to the text (English).
-    - ==[Exclusive]== Fixed Claude's double appearance in the 'Last Requests' mission      cutscene.
-    - ==[Exclusive]== Securicar in 'Escort Service' and 'Decoy' missions now has correct   colors.
-    - ==[Exclusive]== Numerous models and textures fixes.
-    - ==[Exclusive]== Fixed an issue where the radar map was going off the radar circle.
-    - ==[Exclusive]== Various map fixes.
-    - ==[Exclusive]== Fixed marker height in 'Uzi Rider' mission.
-    - Fixed the destruction of lamposts.
-    - ==[Exclusive]== Improved houses in Helburn Heights. They now have porches and night      lights, similar to Shoreside houses.
-    - ==[Exclusive]== Fixed Claude in intro cutscene.   
+    - Интро ролики заменены на PS2 вариант.
+    - Исправлена проблема, когда нельзя было нанести урон битой и огнемётом после ~15 минут игры.
+    - В миссии 'Under Surveillance' кат-сцена и текст синхронизированы со смыслом миссии.
+    - При использовании чит-кода Gesundheit теперь чинится внешний вид транспорта.
+    - Огромное количество улучшенных и исправленных коллизий.
+    - В озере Бельвиль-Парк теперь есть отражения.
+    - Исправлен Ghost.
+    - Исправлена стена на стройке Панлантик.
+    - ==[Эксклюзив]== Исправлен шрифт в статистике, как в версии 1.01.
+    - Airtrain, Deaddodo и Chopper теперь имеют коллизию.
+    - Леон Макаффри теперь имеет уникальную модель с головой из LCS.
+    - ==[Эксклюзив]== Пешеходу male01 возвращена фраза "I Designed PS2" с PS2 версии.
+    - ==[Эксклюзив]== Восстановлены 3 вырезанные, припаркованные машины.
+    - ==[Эксклюзив]== Добавлена текстура подошв у Клода.
+    - ==[Эксклюзив]== Добавлены фары и хромированный бампер у BF Injection.
+    - ==[Эксклюзив]== Исправлен кнут Асуки в кат-сцене миссии 'Grand Theft Aero'.
+    - ==[Эксклюзив]== Полицейский код 48 (превышение скорости) больше не проигрывается.
+    - Пути Deaddodo заменены на оригинальные.
+    - ==[Эксклюзив]== Уникальные полицейские переговоры в миссиях взяты с PS2.
+    - Анимация бега Клода заменена на PC версию.
+    - Исправлена модель Dodo.
+    - ==[Эксклюзив]== Исправлено отсутствие цифры 2 на одной из гаражной двери в Портленде.
+    - ==[Эксклюзив]== Четвёрный безумный трюк теперь можно получить.
+    - ==[Эксклюзив]== В миссиях 'Bling-Bling Scramble' и 'Plaster Blaster' теперь по 3 пути, как на PS2.
+    - У дома сохранения в Шорсайде теперь открываются все 3 двери гаража.
+    - Исправлена проблема, когда при заходе в служебный транспорт высвечивалась радиостанция 'Radio Head'.
+    - Исправлены проблемы с цветами FBI Car.
+    - ==[Эксклюзив]== Во время титров больше не видно Клода в некоторых местах.
+    - ==[Эксклюзив]== Различные исправления в тексте (Английский).
+    - ==[Эксклюзив]== Исправлено двойное появление Клода в кат-сцене миссии 'Last Requests'.
+    - ==[Эксклюзив]== Securicar в миссиях 'Escort Service' и 'Decoy' теперь имеет правильные цвета.
+    - ==[Эксклюзив]== Многочисленные исправления моделей и текстур.
+    - ==[Эксклюзив]== Исправлена проблема, когда карта радара вылезала за рамки радара.
+    - ==[Эксклюзив]== Различные исправления на карте.
+    - ==[Эксклюзив]== Исправлена высота маркера в миссии 'Uzi Rider'.
+    - Исправлена разрушаемость столбов.
+    - ==[Эксклюзив]== Улучшены дома в Hepburn Heights. Теперь у них есть подъезды и ночные огни, по аналогии с домами из Шорсайда.
+    - ==[Эксклюзив]== Исправлен Клод во вступительной кат-сцене.
+
+
     - HD Interface:
-        - Weapon icons have been improved.
-        - ==[Exclusive]== Fixed an issue where the radar map was going off the radar circle.
+        - Улучшены иконки оружия.
+        - ==[Эксклюзив]== Исправлена проблема, когда карта радара вылезала за рамки радара.
+
+    - Russian Language:
+        - Добавлена русифицированная газета.
 
 ??? note "2022.12.30 - Build 29"
-    - Most of addons (including new ones) are now built-in in game and can be turned on/off via modloader/modloader.ini file.
-    - Built-it addons:
-        - Breakable windshields for vehicles;
-        - Burstable tyres for vehicles;
-        - Ability to move camera around the player like in GTA San Andreas;
-        - Destroyable airtrains;
-        - Dynamic shadows for peds and vehicles;
-        - Wanted level stars are no displayed when you don't have wanted level;
-        - Ability to move camera around the vehicle like in GTA Liberty City Stories;
-        - Remove zeroes in money HUD;
-        - Claude animations from PC version;
-        - Weapon and radar icons from PC version;
-        - Weapon and radar icons from PC version (classic);
-        - Improved draw distance for light sources (2dfx);
-        - PS2 crosshair with PC weapon and radar icons;
-        - PS2 crosshair with PC weapon and radar icons (classic);
-        - PS2 crosshair with PS2 weapon and radar icons;
-        - PS2 crosshair with PS2 weapon and radar icons (classic);
-        - Russian language;
-        - Russian language (classic);
-        - Police stingers (use it only with burstable tyres addon);
-        - Borderless windowed mode;
-    - Donwloadable addons:
-        - Classic interface;
+    - Большинство аддонов (включая новые) теперь встроены в игру и управляются через файл modloader/modloader.ini.
+    - Встроенные аддоны:
+        - Разбиваемые стёкла у машин;
+        - Пробиваемые шины у машин;
+        - Возможность крутить камерой вокруг игрока как в GTA San Andreas;
+        - Уничтожаемые самолёты;
+        - Динамические тени для персонажей и транспорта;
+        - Звёзды розыска не показываются когда уровень розыска 0;
+        - Возможность крутить камерой в транспорте как в GTA Liberty City Stories;
+        - Убирание нулей в интерфейсе денег;
+        - Анимации Клода из ПК версии;
+        - Иконки оружия и иконки на радаре из ПК версии;
+        - Иконки оружия и иконки на радаре из ПК версии (в классическом разрешении);
+        - Увеличение дальности прорисовки источников света;
+        - PS2 прицел с иконками оружия и иконками радара из ПК версии;
+        - PS2 прицел с иконками оружия и иконками радара из ПК версии (в классическом разрешении);
+        - PS2 прицел с иконками оружия и иконками радара из PS2 версии;
+        - PS2 прицел с иконками оружия и иконками радара из PS2 версии (в классическом разрешении);
+        - Русский язык;
+        - Русский язык (в классическом разрешении);
+        - Полицейские кидают шипы (использовать только с аддоном на пробиваемые шины у машин);
+        - Оконный режим без рамок;
+    - Загружаемые аддоны:
+        - Классический интерфейс;
         - EAX Alchemy Fix;
 
-    - Yardie gang member are now have different skins.
-    - Lampposts in Shoreside Vale are now destroyable.
-    - [Exclusive] A lot of map fixes:
-        - Fixed objects prelight;
-        - Fixed missing and flipped textures;
-        - Fixed UV-mapping;
-        - Fixed incorrect objects positions (some of them was midair or under the   map);
-        - More minor fixes;
-    - Hands of Colombian gang members in 'The Exchange' cutscenes flipped on 180 degrees.
-    - A lot of vehicles fixes.
-    - (English) Fixed subtitles in "Bling-Bling Scramble", "UZI Rider", "Gangcar  Round-Up" and "Kingdom Come" missions.
-    - Added big heads cheat code like in GTA Liberty City Stories. Combination - BOBBLEHEADS.
-    - The entire interface are now in HD by default with some exclusive changes.
-    - Fixed Catalina's neck.
-    - Fixed some gang members skins.
-    - [Exclusive] Added some details to Pike Creek from official unreleased multiplayer map.
-    - [Exclusive] Big props converting from GTA Liberty City Stories:
-        - Lighthouse;
-        - Parking lot near SupaSave in Portland;
-        - Rocks near dam in Shoreside Vale;
-        - Trash can and trash bins;
-        - Wires;
-        - Fire ladders;
-        - Drilling machines in Shoreside Vale tunnels;
-        - Night lights in Portland;
-        - Tourist booth near subway in Shoreside Vale;
-        - Garage near Tony's safehouse in Shoreside Vale;
-        - Minor props and improvements;
-    - [Exclusive] A lot of new particles, light sources and details on the map:
-        - Vents smoke and antenna lights on Head Radio building;
-        - A lot of details behind Tony's restaurant: windows, fence, fire ladders,  lights   sources;
-        - Airport runway lights;
-        - Details + new light source on stadium in Staunton Island;
-        - Portland docks;
-        - Gas station and Easy Credit Autos in Portland;
-        - Details on the mountain on north of the city;
-        - Added LOD for Colombian mansion;
-        - Added LOD for rocks in the water;
-        - Garden bed for trees in the concrete;
-        - Crossroad near Callahan bridge in Portland;
-        - Improved Rockstar billboards;
-        - Fixed geometry, textures, prelight and shadows in Belleville Park;
-        - Details for Leon McAffrey's house;
-        - Added flickering lights on the drawbridge between Staunton and Shoreside  Vale;
-        - Minor small improvements and light sources;
-    - [Exclusive] Pay'n'Spray, Ammu-Nation and 8-Ball garage are now display on   the   radar after completing certain missions;
-    - Plugins has been updated;
-    - Fixed issue with planes draw distance (by removing collision);
-    - [Exclusive] Fixed platinum textures in 'Bullion Run' like in PS2 version.
-    - [Exclusive] Now you will see 'Mission Complete' after completing 'The   Exchange'.
-    - [Exclusive] Fixed one part of rail tracks in Portland.
+    - Члены банды Ярди теперь имеют разные скины.
+    - Столбы в Shoreside Vale теперь разрушаемые.
+    - ==[Эксклюзив]== Большое количество исправлений на карте:
+        - Исправления прелайта у объектов;
+        - Исправления отсутствующих или перевёрнутых текстур;
+        - Исправления UV-маппинга;
+        - Исправления некорректных позиций у объектов (объекты висели в воздухе или были под картой);
+        - Прочие мелкие исправления;
+        - Руки Колумбийцев во вступительной кат-сцене миссии "The Exchange" повёрнуты на 180 градусов.
+        - Большое количество исправлений транспортных средств.
+        - (Английский) Исправлены субтитры в миссиях "Bling-Bling Scramble", "UZI Rider", "Gangcar Round-Up" и "Kingdom Come".
+        - Добавлен чит-код на большие головы как в GTA Liberty City Stories. Комбинация - BOBBLEHEADS.
+        - Весь интерфейс по умолчанию теперь в HD качестве с эксклюзивными правками.
+        - Исправлена шея Каталины.
+        - Исправлены некоторые скины банд.
+        - ==[Эксклюзив]== Добавлена небольшая детализация в район Pike Creek из официальных вырезанных мультиплеерных карт.
+        - ==[Эксклюзив]== Большой перенос пропов из GTA Liberty City Stories:
+            - Маяк;
+            - Парковка у SupaSave в Portland'е;
+            - Камни у дамбы в Shoreside Vale;
+            - Мусорные баки и мешки;
+            - Провода;
+            - Пожарные лестницы;
+            - Бурящие машины в туннеле Shoreside Vale;
+            - Ночные огни у домов в Portland'е;
+            - Туристическая будка у метро в Shoreside Vale;
+            - Гараж у дома Тони в Shoreside Vale;
+            - Прочие мелкие пропы и улучшения;
+        - ==[Эксклюзив]== Множественное добавление различных эффектов, источников света и детализации на карту:
+            - Дым из вентиляций и свет для антенны на здании Head Radio;
+            - Огромная детализация двора за рестораном Тони: окна, забор, пожарные лестницы, источники света;
+            - Огни на взлётно-посадочных полосах в аэропорту;
+            - Детализация + добавление источников света на стадион в Staunton Island;
+            - Порт в Portland'е;
+            - Заправка и автосалон Easy Credit Autos в Portland'е;
+            - Детализация горы на севере города;
+            - Особняку Колумбийцев в Shoreside Vale добавлен LOD;
+            - Камням в воде добавлен LOD;
+            - Клумбы для деревьев, которые изначально были в асфальте;
+            - Перекрёсток у моста Каллахан в Portland'е;
+            - Улучшены билборды Rockstar;
+            - Исправление геометрии, текстур, прелайта и теней в Belleville Park;
+            - Детализация дома Леона МакКефри;
+            - Добавлены мерцающие огни на подъёмном мосту между Staunton'ом и Shoreside Vale;
+            - Прочие мелкие улучшения и источники света;
+        - ==[Эксклюзив]== На радаре теперь отображаются Pay'n'Spray, Ammu-Nation и гараж 8-Ball'а после прохождения соответствующих миссий.
+        - Обновлены плагины.
+        - Исправлена проблема с дальностью прорисовки самолётов (путём убирания у них коллизии).
+        - ==[Эксклюзив]== Исправлены текстуры пикапа платинума в миссии 'Bullion Run', как на PS2.
+        - ==[Эксклюзив]== Теперь вы будете видеть сообщение "Миссия Пройдена" после финальных титров в 'The Exchange'.
+        - ==[Эксклюзив]== Исправлен один неправильный кусок железной дороги в Portland'е.
 
 ![alt](../../assets/gta3/char_0005.png)
