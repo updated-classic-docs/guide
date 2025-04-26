@@ -24,51 +24,51 @@
 
     `(addon) russian language classic = 100`
 
-1) Breakable windshields 
+1) Пробиваемые стёкла
 !!! note "" 
     `(addon) breakable windshields = 100`
 
-2) Burstable tyres 
+2) Пробиваемые колёса 
 !!! note "" 
     `(addon) burstable tyres = 100`
 
-3) Ability to move camera around the player like in GTA San Andreas
+3) Возможность вращать камерой вокруг персонажа как в GTA San Andreas
 !!! note "" 
     `(addon) classic axis = 100`
 
-4) Classic Interface (Original interface quality.)
+4) Классический интерфейс (Интерфейс в оригинальном, не HD качестве.)
 !!! note "" 
-    1. Download and unpack [[III] Classic Interface.zip](https://drive.google.com/file/d/1s7ux3IRG1zlAxrzyagu5nEhBgBMbF6_2) archive.
-    2. Move content from ^^put in the game folder^^ folder to the game directory.
+    1. Скачать и распаковать архив [[III] Classic Interface.zip](https://drive.google.com/file/d/1s7ux3IRG1zlAxrzyagu5nEhBgBMbF6_2).
+    2. Переместить содержимое папки ^^put in the game folder^^ в папку с игрой.
     3. `(dlc) classic interface = 100`
 
-5) Destroyable airtrains
+5) Уничтожаемые самолёты
 !!! note "" 
     `(addon) destroyable airtrain = 100`
 
-6) Dynamic shadows
+6) Динамические тени
 !!! note "" 
     `(addon) dynamic shadows = 100`
 
-7) Hide wanted level like in GTA San Andreas
+7) Скрытый уровень розыска как в GTA San Andreas
 !!! note "" 
     `(addon) hide wanted level = 100`
 
-8) No money zeros
+8) Удаление нулей
 !!! note "" 
-    Removing zeros from money interface. For example, now you'll see "$350", instead of "$00000350".
+    Данное дополнение убирает нули в отображении интерфейса денег игрока. Таким образом, имея (например) $350, вы будете видеть в интерфейсе "$350", вместо "$00000350".
 
     `(addon) no money zeros = 100`
 
-9) Ability to move camera around the vehicle like in GTA Liberty City Stories
+9) Возможность вращать камеру в транспорте как в GTA Liberty City Stories
 !!! note "" 
     `(addon) lcs vehicle camera = 100`
 
-10) Claude animations from PC version
+10) Анимации Клода с ПК версии
 !!! note "" 
     `(addon) pc anims = 100`
 
-11) PC radar and weapon icons
+11) Иконки оружия и радара с ПК версии
 !!! note "" 
     `(addon) pc weapons and radar icons = 100`
 
@@ -76,11 +76,11 @@
 
     `(addon) pc weapons and radar icons classic = 100`
 
-12) Project 2DFX - Increase draw distance of light sources
+12) Project 2DFX - Увеличение дальности прорисовки источников света
 !!! note "" 
     `(addon) project 2dfx = 100`
 
-13) PS2 crosshair
+13) PS2 прицел
 !!! note "" 
     `(addon) ps2 crosshair ps2 weapons and radar icons = 100`
 
@@ -96,21 +96,21 @@
 
     `(addon) ps2 crosshair pc weapons and radar icons classic = 100`
 
-14) Stingers
+14) Полицейские кидают шипы
 
 !!! note "" 
     `(addon) stingers = 100`
 
-    ==Use this only with 'Burstable tyres' addon==
+    ==Использовать только с аддоном "Пробиваемые колёса"==
     
 
-15) Borderless windowed mode
+15) Оконный режим без рамки
 !!! note "" 
     `(addon) windowed mode = 100`
 
-16) Ability to choose EAX, EAX 3.0, A3D and DirectSoundHW modes for users with Creative SoundBlaster sound card
+16) Возможность выбрать режимы EAX, EAX 3.0, A3D и DirectSoundHW для пользователей звуковой карты Creative SoundBlaster
 !!! note "" 
-    1. Download and unpack [[III] EAX Alchemy Fix.zip](https://drive.google.com/file/d/1WdgPJSgbSc5ed-H3Y0y-hz2KfK8A38pg) archive.
-    2. Move content from put in the game folder folder to game directory.
+    1.  Скачать и распаковать архив [[III] EAX Alchemy Fix.zip](https://drive.google.com/file/d/1WdgPJSgbSc5ed-H3Y0y-hz2KfK8A38pg).
+    2. Переместить содержимое папки ^^put in the game folder^^ в папку с игрой.
 
 ![alt](../../assets/gta3/char_0007.png)
